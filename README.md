@@ -2,7 +2,7 @@
 
 Submitted by: **Ibrahima Diallo**
 
-**project 5** is an app that ... [TODO] 
+**project 5** is an app that fetch data and displays it
 
 Time spent: **2** hours spent in total
 
